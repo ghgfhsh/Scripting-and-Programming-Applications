@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  networkStudent.cpp
+  roster.cpp
+  securityStudent.cpp
+  softwareStudent.cpp
+  student.cpp
+d:\projects\school\scripting and programming applications\student roster\student roster\student.cpp(164): warning C4018: '<': signed/unsigned mismatch
+d:\projects\school\scripting and programming applications\student roster\student roster\student.cpp(177): warning C4018: '<': signed/unsigned mismatch
+d:\projects\school\scripting and programming applications\student roster\student roster\student.cpp(184): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Student Roster.vcxproj -> D:\Projects\School\Scripting and Programming Applications\Student Roster\Debug\Student Roster.exe
